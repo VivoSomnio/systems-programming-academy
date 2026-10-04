@@ -152,6 +152,7 @@ documents close each chapter.
 <!-- published-chapters:begin -->
 - `Volume 1/Chapter 01 - Development Environment` (14 lessons)
 - `Volume 1/Chapter 02 - Language Fundamentals` (34 lessons, 4 projects)
+- `Volume 1/Chapter 03 - File Handling` (38 lessons, 4 projects)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
