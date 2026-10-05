@@ -156,6 +156,7 @@ documents close each chapter.
 - `Volume 1/Chapter 04 - Databases` (30 lessons, 2 projects)
 - `Volume 1/Chapter 05 - CRUD Applications` (18 lessons, 2 projects)
 - `Volume 1/Chapter 06 - RESTful APIs` (44 lessons, 4 projects)
+- `Volume 1/Chapter 07 - Networking Basics` (22 lessons, 2 projects)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
