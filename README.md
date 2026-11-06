@@ -163,6 +163,7 @@ documents close each chapter.
 - `Volume 1/Chapter 11 - Debugging` (16 lessons, 2 projects)
 - `Volume 1/Chapter 12 - Developer Workflow` (20 lessons, 1 projects)
 - `Volume 1/Chapter 13 - Linux Workflow` (15 lessons, 1 projects)
+- `Volume 1/Final Project - Notes Platform` (0 lessons, 6 parts)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
