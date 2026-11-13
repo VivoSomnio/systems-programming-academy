@@ -13,6 +13,14 @@ toward one small but complete platform: a notes application with file import
 and export, MySQL storage, search, a REST API, a simple web page, validation,
 error handling, logging and a Git history.
 
+Volume 2, *Operating Systems*, looks inside the system your programs run on:
+processes, file descriptors, system calls, libraries and linking, fork, exec
+and wait, signals, file systems, virtual memory, memory-mapped files, threads,
+synchronization, services and daemons, containers, and the ways programs talk
+to each other. Every lesson runs on Windows first, then the same steps in
+Ubuntu under WSL, which Volume 1, Chapter 13 sets up. It builds toward a small
+service manager.
+
 ## Get the lessons
 
 You do **not** need a GitHub account to read this page or to download the
@@ -85,7 +93,8 @@ cd systems-programming-academy
 explorer .
 ```
 
-File Explorer opens the folder. Open `Volume 1` and then a chapter.
+File Explorer opens the folder. Open a volume folder, `Volume 1` or `Volume 2`,
+and then a chapter.
 
 **Getting updates later.** Open PowerShell or Git Bash, go back into the folder, and run
 `git pull`:
@@ -113,10 +122,12 @@ Lesson 1.9 turns into your own Git repository.
 3. Open File Explorer, go to **Downloads**, right-click the zip, and choose
    **Extract All...**. Pick a folder you will find again, for example your
    **Documents** folder, and click **Extract**.
-4. Open the new folder, then `Volume 1`, then the chapter you want.
+4. Open the new folder, then the volume folder (`Volume 1` or `Volume 2`), then
+   the chapter you want.
 
 When a new release appears with more chapters, download its zip the same way.
-The new zip holds every published lesson, so it replaces the old one.
+A volume's newest zip holds every published lesson of that volume, so it
+replaces the older zips of the same volume.
 
 ## Open the lessons
 
@@ -132,12 +143,19 @@ Start with **Chapter 01 - Development Environment**, Lesson 1.1, and work in
 order. Each lesson assumes the ones before it, and Chapter 1 installs every tool
 the rest of the course uses.
 
+Volume 2 starts with **Chapter 01 - Processes** in the `Volume 2` folder. It
+assumes all of Volume 1, including Chapter 13's Ubuntu setup.
+
 ## Folder layout
 
 ```
 Volume 1/
   Chapter 01 - Development Environment/
   Chapter 02 - Language Fundamentals/
+  ...
+Volume 2/
+  Chapter 01 - Processes/
+  Chapter 02 - File Descriptors/
   ...
 ```
 
@@ -164,6 +182,7 @@ documents close each chapter.
 - `Volume 1/Chapter 12 - Developer Workflow` (20 lessons, 1 projects)
 - `Volume 1/Chapter 13 - Linux Workflow` (15 lessons, 1 projects)
 - `Volume 1/Final Project - Notes Platform` (0 lessons, 6 parts)
+- `Volume 2/Chapter 01 - Processes` (12 lessons, 2 projects)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
