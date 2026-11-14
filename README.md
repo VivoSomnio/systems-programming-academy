@@ -183,6 +183,7 @@ documents close each chapter.
 - `Volume 1/Chapter 13 - Linux Workflow` (15 lessons, 1 projects)
 - `Volume 1/Final Project - Notes Platform` (0 lessons, 6 parts)
 - `Volume 2/Chapter 01 - Processes` (12 lessons, 2 projects)
+- `Volume 2/Chapter 02 - File Descriptors` (14 lessons, 2 projects)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
