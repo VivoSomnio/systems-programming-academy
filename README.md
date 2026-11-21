@@ -186,6 +186,7 @@ documents close each chapter.
 - `Volume 2/Chapter 02 - File Descriptors` (14 lessons, 2 projects)
 - `Volume 2/Chapter 03 - System Calls` (10 lessons, 2 projects)
 - `Volume 2/Chapter 04 - Libraries, Linking, and ABI` (10 lessons, 2 projects)
+- `Volume 2/Chapter 05 - Fork, Exec, Wait` (10 lessons, 2 projects)
 <!-- published-chapters:end -->
 
 ## Type the code, never copy it
